@@ -27,8 +27,8 @@ int main()
                 min = tab[i];
                 }
             }
-                        printf("la temperature max : %.2f ", max);
-                         printf("la temperature max : %.2f ", min);
+                        printf("la temperature max : %.2f \n", max);
+                         printf("la temperature min : %.2f ", min);
 
     return 0;
 }
